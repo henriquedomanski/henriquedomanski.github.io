@@ -1,0 +1,156 @@
+body {
+  background-color: #384EFC;
+  background-color: #4324fc;}
+#rock {
+  position: absolute; 
+  top: 25%;
+  left: 25%;
+  width: 50%;
+}
+
+
+/* CSS ANIM */
+/* UNCOMMENT THIS TO SEE CSS VERSION
+// AND DONT FORGET TO COMMENT JS
+#rock {
+    -webkit-animation: rockNroll .7s infinite;
+       -moz-animation: rockNroll .7s infinite;
+        -ms-animation: rockNroll .7s infinite;
+         -o-animation: rockNroll .7s infinite;
+            animation: rockNroll .7s infinite;
+}
+
+@-webkit-keyframes rockNroll {
+  0% {
+    margin-left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  33% {
+    margin-top: 13px;
+    margin-left: -6px;
+    -webkit-transform: rotate(-16deg);
+    -moz-transform: rotate(-16deg);
+    -o-transform: rotate(-16deg);
+    transform: rotate(-16deg);
+
+}
+  100% {
+    margin-left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+}
+
+
+@-moz-keyframes rockNroll {
+  0% {
+    margin-left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  33% {
+    margin-top: 13px;
+    margin-left: -6px;
+    -webkit-transform: rotate(-16deg);
+    -moz-transform: rotate(-16deg);
+    -o-transform: rotate(-16deg);
+    transform: rotate(-16deg);
+
+  }
+  100% {
+    margin-left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+}
+
+
+@-ms-keyframes rockNroll {
+  0% {
+    margin-left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  33% {
+    margin-top: 13px;
+    margin-left: -6px;
+    -webkit-transform: rotate(-16deg);
+    -moz-transform: rotate(-16deg);
+    -o-transform: rotate(-16deg);
+    transform: rotate(-16deg);
+
+  }
+  100% {
+    margin-left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+}
+
+
+@-o-keyframes rockNroll {
+  0% {
+    margin-left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  33% {
+    margin-top: 13px;
+    margin-left: -6px;
+    -webkit-transform: rotate(-16deg);
+    -moz-transform: rotate(-16deg);
+    -o-transform: rotate(-16deg);
+    transform: rotate(-16deg);
+
+  }
+  100% {
+    margin-left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+}
+
+
+@keyframes rockNroll {
+  0% {
+    margin-left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  33% {
+    margin-top: 13px;
+    margin-left: -6px;
+    -webkit-transform: rotate(-16deg);
+    -moz-transform: rotate(-16deg);
+    -o-transform: rotate(-16deg);
+    transform: rotate(-16deg);
+
+  }
+  100% {
+    margin-left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+}
+*/
