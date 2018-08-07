@@ -1115,6 +1115,7 @@ pre code {
   }
   .col-md-3 {
     width: 25%;
+    margin-left: 400px;
   }
   .col-md-2 {
     width: 16.666666666666664%;
